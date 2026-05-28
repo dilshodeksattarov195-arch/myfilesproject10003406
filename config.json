@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configprocess",
+        "uuid": 15912832,
+        "checksum": "aagkpf"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
